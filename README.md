@@ -1,3 +1,5 @@
+Right now, Carbonara only has the 2020 RCC patched properly for gameservers, maybe 2018 soon.
+
 ## PublicKey.pem (BGIAA)
 ```
 BgIAAAAkAABSU0ExAAQAAAEAAQDFX+FZGpnxdtISU6ESBhFQUr8s1YEqC9Oi8ngSigRCOVQRUuG/jd4oYvmEaAbVPXAGV+vg5ZEyeR5VMreEPylw8MRw2TtzzJ9BKDQ4r/LEp7+T2aeSp7Nefzo0TI0JDm1OjWfxMn3v7VpXGuQiCQnlPqkNERBnuXKnc9eWnbrouA==
